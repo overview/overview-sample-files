@@ -1,4 +1,4 @@
-uid,date,type,category,tracking number,title,text,region,attack on,complex attack,reporting unit,unit name,type of unit,friendly WIA,friendly KIA,HN WIA,HN KIA,Civ WIA,Civ KIA,Enemy WIA,Enemy KIA,Enemy detained,MGRS,Latitude,Longitude,Originator group,Updated by group,unk1,unk2,Affiliation,DColor,Classification
+uid,date,tags,category,tracking number,title,text,region,attack on,complex attack,reporting unit,unit name,type of unit,friendly WIA,friendly KIA,HN WIA,HN KIA,Civ WIA,Civ KIA,Enemy WIA,Enemy KIA,Enemy detained,MGRS,Latitude,Longitude,Originator group,Updated by group,unk1,unk2,Affiliation,DColor,Classification
 15343EC6-1372-51C0-5940BF525F26C05E,2009-07-16 06:35:00,Explosive Hazard,IED Found/Cleared,20090716063541RPQ1083223065,(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) 2/8 ECHO CO IVO  (ROUTE REDSKINS EAST): 0 INJ/DAM,"** DELAYED REPORTING **
 REPORT DERIVED FROM USMC EOD REPORT
 
